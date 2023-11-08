@@ -1,0 +1,6 @@
+[console_scripts]
+collision_scenario_calculation = colreg_package.collision_scenario_calculation:main
+own_ship_control = colreg_package.own_ship_control:main
+position = colreg_package.turtle_positioning:main
+target_ship_control = colreg_package.target_ship_control:main
+
